@@ -1,3 +1,4 @@
+
 """
 The main Tkinter application: ties together GameState,
 DifferenceGenerator, and two ImageCanvas widgets.
