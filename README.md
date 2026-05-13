@@ -117,8 +117,4 @@ The GUI has:
 - Member 1: Anurag Regmi
 - Member 2: Bibek Pantha
 - Member 3: Bibek Khakural
-<<<<<<< HEAD
 - Member 4: Jack Maloney
-=======
-- Member 4: Jack Maloney
->>>>>>> 395f02382246542c12e812f7dfda29fd2d9367e1
